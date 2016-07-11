@@ -1,16 +1,16 @@
 {
-  "name": "styledown",
-  "description": "Markdown-based styleguide generator",
+  "name": "styledown-redux",
+  "description": "Markdown-based styleguide generator forked from https://github.com/styledown/styledown.git. At the moment this is the same as the original, however it works on mac when installed globally.",
   "keywords": [
     "markdown",
     "css",
     "styleguide"
   ],
-  "author": "Rico Sta. Cruz <hi@ricostacruz.com>",
-  "version": "1.0.2",
+  "author": "Alex Ward <alex@volcaniccreations.com>",
+  "version": "1.0.3",
   "repository": {
     "type": "git",
-    "url": "https://github.com/styledown/styledown.git"
+    "url": "https://github.com/volcanic-creations/styledown"
   },
   "main": "index",
   "scripts": {
